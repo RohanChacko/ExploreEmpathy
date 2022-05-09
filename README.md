@@ -1,6 +1,7 @@
 # Exploring Empathy
 [COGSCI 2022] Exploring Empathy and a Range of Emotions Towards Protest Photographs
 
+**AadilMehdi Sanchawala\*, Adhithya Arun\*, Rahul Sajnani\*, Rohan Chacko\*, Kavita Vemuri**
 ## Dataset
 
 `SearchTerms204.csv` contains the search keywords used to scrape the images for the different categories for the 204 image dataset.
